@@ -5,4 +5,8 @@ ERC20/BEP20 address
 
 TRC20 address
 
+big amount:
 TQCvp6yZuvt3okyvC4jxhh11tQALcYAdK1
+
+small amount:
+TGrQBHBYXT3re8Ui3cqpwyAjvsrKW1ffUk
