@@ -7,6 +7,7 @@ TRC20 address
 
 big amount:
 TQCvp6yZuvt3okyvC4jxhh11tQALcYAdK1
+
 (please check if there is recent frequent transaction. Also add 0.03 for identifying)
 
 small amount:
