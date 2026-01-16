@@ -7,7 +7,7 @@ TNc5XmZ3n8tAbHxF8QjExD8MtDGpYiSbpv
 
 
 
-Don't use these for a while
+Don't use addresses below for a while
 
 ERC20 / BEP20 address
 
